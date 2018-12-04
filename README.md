@@ -1,6 +1,6 @@
 # vision_structures
 
-Protein Structures of Genes Included in the Vision Variation Database.
+Protein Structures of Genes Implicated in Vision Loss.
 
 This repository acts to compile a list of homology models for genes included in the vision variation database. Each of the beginning homology models in this repository were acquired from SwissProt and ModBase, modeling paradigms that use a fixed charged potential to generate predicted structures of proteins not determined experimentally by means of sequence alignment to orthologous proteins. Also included in this repository is a corresponding refined structure for each of the input models. The refinements were done using the Force Field X (FFX) software package that uses the AMOEBA polarizable force field as the potential energy function. 
 
