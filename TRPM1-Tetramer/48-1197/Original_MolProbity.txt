@@ -1,3 +1,4 @@
+
 =================================== Summary ===================================
 
   Ramachandran outliers =   3.31 %
@@ -8,5 +9,3 @@
   RMS(bonds)            =   0.0157
   RMS(angles)           =   2.24
   MolProbity score      =   1.82
-
-
